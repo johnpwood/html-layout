@@ -1,0 +1,53 @@
+body {
+    height: 99vh;
+    margin: 0;
+}
+
+#top {
+  display: flex;
+  align-items: center;
+  background-color: #bbb;
+  height: 15%;
+}
+
+#square {
+  height: 12vh;
+  width : 12vh;
+  margin-left: 3vh;
+  background-color: #58f;
+}
+
+
+#words {
+    display: flex;
+    align-items: center;
+    background-color: #fafafa;
+    height: 25%;
+    font-size: 1.5em;
+    font-family: sans-serif;
+}
+
+#words > p {
+  margin-left: 6vh;
+  margin-right: 6vh;
+}
+
+#blue {
+    height: 15%;
+    background-color: #58F;
+}
+
+#aqua {
+    height: 15%;
+    background-color: #0ff;
+}
+
+#gross {
+    height: 15%;
+    background-color: #af8;
+}
+
+#yellow {
+  height: 15%;
+  background-color: #f5f500;
+}
